@@ -36,7 +36,7 @@ div#menu {
     align-items: center;
     position: fixed;
     margin-top: 50px;
-    padding-left: 23%;
+    padding-left: 22%;
 }
 
 div#menu a {
@@ -110,11 +110,19 @@ div#projeto {
 }
 
 div#materiais {
+    display: inline-block;
     padding: 150px 0 0 300px;
+    width: 300px;
 }
 
 div#materiais img {
     width: 300px;
+}
+
+div#materiais span {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #292929;
 }
 
 div#etapas {
