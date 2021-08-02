@@ -36,7 +36,7 @@ div#menu {
     align-items: center;
     position: fixed;
     margin-top: 50px;
-    padding-left: 26%;
+    padding-left: 23%;
 }
 
 div#menu a {
@@ -107,6 +107,10 @@ div#projeto {
     position: flex;
     text-align: justify;
     text-indent: 10px;
+}
+
+div#materiais {
+    padding: 150px 0 0 300px;
 }
 
 div#etapas {
