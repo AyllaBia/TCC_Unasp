@@ -113,6 +113,10 @@ div#materiais {
     padding: 150px 0 0 300px;
 }
 
+div#materiais img {
+    width: 300px;
+}
+
 div#etapas {
     padding: 150px 0 0 300px;
 }
