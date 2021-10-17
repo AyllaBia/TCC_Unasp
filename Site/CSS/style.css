@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #3a3a3a;
+    width: 100%;
+    height: 50px;
+    display: grid;
+    place-items: center;
+    position: fixed;
+}
+
+header h1 {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    padding-top: 3px;
+}
+
+nav {
+    background-color: #09a38b;
+    width: 100%;
+    height: 60px;
+    place-items: center;
+    display: flex;
+    padding: 0px 20% 0 20%;
+    margin-top: 50px;
+    position: fixed;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    margin: auto;
+    font-weight: 500;
+}
+
+main {
+    padding-top: 110px;
+}
+
+main h1 {
+    color: #292929;
+    text-indent: 30px;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px 300px 20px 300px;
+}
+
+main p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #292929;
+    padding: 0px 300px 20px 300px;
+    text-indent: 20px; 
+}
+
+div#items-wrapper {
+    padding-top: 110px;
+}
+
+div#projeto {
+    padding-top: 110px;
+}
+
+div#materiais {
+    padding-top: 110px;
+}
+
+div#etapas {
+    padding-top: 110px;
+}
+
+div#aplicacao {
+    padding-top: 110px;
+}
+
+div#grupo {
+    height: 2200px;
+    padding: 110px 300px 0px 300px;
+}
+
+div#grupo img{
+    border-radius: 100%;
+}
+
+div#imagens-integrantes {
+    float: left;
+    width:400px;  
+    height:400px; 
+}
+
+div#descricao-integrantes {
+    margin-left: 206px;
+    height:2000px; 
+}
+
+footer {
+    background-color: #3a3a3a;
+    position: relative;
+    height: 100px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 150;
+    padding-top: 30px;
+}
+
+footer img {
+    padding-top: 5px;
+    width: 30px;
+}
+
+div#info-aylla {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
+
+div#info-bruna {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
+
+div#info-chiara {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
+
+div#info-gabriel {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
+
+
+
+
+
+div#info-vitoria {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
