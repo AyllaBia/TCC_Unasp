@@ -5,7 +5,4 @@ dessas pessoas. O projeto consiste em um protótipo de carro inteligente adaptad
 da cabeça do usuário e converte em comandos para o protótipo, fazendo com que ele se mova. 
 
 Além do protótipo criamos também um site para apresentar o projeto de uma forma mais dinâmica e simples.
-
-https://ayllabia.github.io/TCC_Unasp/Site/
-
 Nesse repositório disponibilizamos todo o projeto, desde diagramas até o código fonte tanto do site quanto do código para o funcionamento do protótipo.
